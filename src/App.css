@@ -6,6 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+.footer{
+  color: red;
+  display: flex;
+  justify-content: space-around;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
